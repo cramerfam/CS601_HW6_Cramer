@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "sku": "prod1",
+        "name": "Apples, Honeygold",
+        "unit": "ea",
+        "quantity": "12",
+        "price": "0.99"
+    },
+    {
+        "id": 2,
+        "sku": "prod2",
+        "name": "Apples, Granny Smith",
+        "unit": "ea",
+        "quantity": "10",
+        "price": "0.79"
+    }, 
+    {
+        "id": 3,
+        "sku": "prod3",
+        "name": "Bananas",
+        "unit": "lb",
+        "quantity": "10",
+        "price": "1.29"
+    },
+    {
+        "id": 4,
+        "sku": "prod4",
+        "name": "Oranges",
+        "unit": "ea",
+        "quantity": "11",
+        "price": "0.59"
+    },
+    {
+        "id": 5,
+        "sku": "prod5",
+        "name": "Carrots",
+        "unit": "bunch",
+        "quantity": "8",
+        "price": "3.99"
+    },
+    {
+        "id": 6,
+        "sku": "prod6",
+        "name": "Broccoli",
+        "unit": "head",
+        "quantity": "8",
+        "price": "1.59"
+    },
+    {
+        "id": 7,
+        "sku": "prod7",
+        "name": "Tomatoes, Slicing",
+        "unit": "ea",
+        "quantity": "9",
+        "price": "0.79"
+    },
+    {
+        "id": 8,
+        "sku": "prod8",
+        "name": "Tomatoes, Cherry",
+        "unit": "pint",
+        "quantity": "9",
+        "price": "3.59"
+    }
+]

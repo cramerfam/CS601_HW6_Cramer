@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "sku": "bakery1",
+        "name": "Bread, Whole Wheat",
+        "unit": "ea",
+        "quantity": "15",
+        "price": "3.99"
+    },
+    {
+        "id": 2,
+        "sku": "bakery2",
+        "name": "Bread, Brioche",
+        "unit": "ea",
+        "quantity": "6",
+        "price": "5.99"
+    },
+    {
+        "id": 3,
+        "sku": "bakery3",
+        "name": "Rolls, Honey Wheat",
+        "unit": "dozen",
+        "quantity": "3",
+        "price": "4.99"
+    },
+    {
+        "id": 4,
+        "sku": "bakery4",
+        "name": "Rolls, Hawaiian",
+        "unit": "dozen",
+        "quantity": "5",
+        "price": "4.99"
+    },
+    {
+        "id": 5,
+        "sku": "bakery5",
+        "name": "Muffins, Blueberry",
+        "unit": "ea",
+        "quantity": "12",
+        "price": "1.99"
+    },
+    {
+        "id": 6,
+        "sku": "bakery6",
+        "name": "Baguette",
+        "unit": "ea",
+        "quantity": "11",
+        "price": "3.99"
+    },
+    {
+        "id": 7,
+        "sku": "bakery7",
+        "name": "Cake, Chocolate",
+        "unit": "ea",
+        "quantity": "2",
+        "price": "14.99"
+    },
+    {
+        "id": 8,
+        "sku": "bakery8",
+        "name": "Cake, Birthday Vanilla",
+        "unit": "ea",
+        "quantity": "5",
+        "price": "14.99"
+    }
+]

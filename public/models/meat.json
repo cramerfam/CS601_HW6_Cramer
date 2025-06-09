@@ -1,0 +1,66 @@
+[
+     {
+        "id": 1,
+        "sku": "meat1",
+        "name": "Chicken, Breasts",
+        "unit": "lb",
+        "quantity": "10",
+        "price": "6.99"
+    },
+    {
+        "id": 2,
+        "sku": "meat2",
+        "name": "Chicken, Thighs",
+        "unit": "lb",
+        "quantity": "8",
+        "price": "5.99"
+    },
+    {
+        "id": 3,
+        "sku": "meat3",
+        "name": "Chicken, Ground",
+        "unit": "lb",
+        "quantity": "12",
+        "price": "4.99"
+    },
+    {
+        "id": 4,
+        "sku": "meat4",
+        "name": "Beef, Ground",
+        "unit": "lb",
+        "quantity": "15",
+        "price": "5.99"
+    },
+    {
+        "id": 5,
+        "sku": "meat5",
+        "name": "Beef, Steaks",
+        "unit": "lb",
+        "quantity": "8",
+        "price": "9.99"
+    },
+    {
+        "id": 6,
+        "sku": "meat6",
+        "name": "Salmon, Filets",
+        "unit": "lb",
+        "quantity": "8",
+        "price": "8.99"
+    },
+    {
+        "id": 7,
+        "sku": "meat7",
+        "name": "Shrimp, Tail-Off",
+        "unit": "lb",
+        "quantity": "10",
+        "price": "7.99"
+    },
+    {
+        "id": 8,
+        "sku": "meat8",
+        "name": "Pork, Chops",
+        "unit": "lb",
+        "quantity": "7",
+        "price": "5.99"
+    }
+]
