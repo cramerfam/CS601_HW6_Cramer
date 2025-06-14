@@ -5,7 +5,9 @@
         "name": "Bread, Whole Wheat",
         "unit": "ea",
         "quantity": "15",
-        "price": "3.99"
+        "price": "3.99",
+        "description": "Nutritious sliced wheat sandwich bread",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/bakery/1.png"
     },
     {
         "id": 2,
@@ -13,23 +15,29 @@
         "name": "Bread, Brioche",
         "unit": "ea",
         "quantity": "6",
-        "price": "5.99"
+        "price": "5.99",
+        "description": "Rich, delicious bread - great for French Toast!",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/bakery/2.png"
     },
     {
         "id": 3,
         "sku": "bakery3",
-        "name": "Rolls, Honey Wheat",
+        "name": "Rolls, Hawaiian",
         "unit": "dozen",
-        "quantity": "3",
-        "price": "4.99"
+        "quantity": "5",
+        "price": "4.99",
+        "description": "A fun side for any picnic or summer BBQ",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/bakery/3.png"
     },
     {
         "id": 4,
         "sku": "bakery4",
-        "name": "Rolls, Hawaiian",
+        "name": "Rolls, Honey Wheat",
         "unit": "dozen",
-        "quantity": "5",
-        "price": "4.99"
+        "quantity": "3",
+        "price": "4.99",
+        "description": "Hearty wheat rolls with a hint of sweetness",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/bakery/4.png"
     },
     {
         "id": 5,
@@ -37,7 +45,9 @@
         "name": "Muffins, Blueberry",
         "unit": "ea",
         "quantity": "12",
-        "price": "1.99"
+        "price": "1.99",
+        "description": "Such a sweet way to start your morning. Made with fresh blueberries!",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/bakery/5.png"
     },
     {
         "id": 6,
@@ -45,7 +55,9 @@
         "name": "Baguette",
         "unit": "ea",
         "quantity": "11",
-        "price": "3.99"
+        "price": "3.99",
+        "description": "A baguette complements any meal!",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/bakery/6.png"
     },
     {
         "id": 7,
@@ -53,7 +65,9 @@
         "name": "Cake, Chocolate",
         "unit": "ea",
         "quantity": "2",
-        "price": "14.99"
+        "price": "14.99",
+        "description": "Rich, chocolaty goodness",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/bakery/7.png"
     },
     {
         "id": 8,
@@ -61,6 +75,8 @@
         "name": "Cake, Birthday Vanilla",
         "unit": "ea",
         "quantity": "5",
-        "price": "14.99"
+        "price": "14.99",
+        "description": "The perfect cake for any celebration!",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/bakery/8.png"
     }
 ]

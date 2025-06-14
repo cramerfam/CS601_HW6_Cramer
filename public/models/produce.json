@@ -5,7 +5,9 @@
         "name": "Apples, Honeygold",
         "unit": "ea",
         "quantity": "12",
-        "price": "0.99"
+        "price": "0.99",
+        "description": "Sweet with a delicious crunch",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/produce/1.png"
     },
     {
         "id": 2,
@@ -13,7 +15,9 @@
         "name": "Apples, Granny Smith",
         "unit": "ea",
         "quantity": "10",
-        "price": "0.79"
+        "price": "0.79",
+        "description": "A classic, tart choice for pies and baked goods",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/produce/2.png"
     }, 
     {
         "id": 3,
@@ -21,7 +25,9 @@
         "name": "Bananas",
         "unit": "lb",
         "quantity": "10",
-        "price": "1.29"
+        "price": "1.29",
+        "description": "A great source of potassium!",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/produce/3.png"
     },
     {
         "id": 4,
@@ -29,7 +35,9 @@
         "name": "Oranges",
         "unit": "ea",
         "quantity": "11",
-        "price": "0.59"
+        "price": "0.59",
+        "description": "Your daily dose of Vitamin C",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/produce/4.png"
     },
     {
         "id": 5,
@@ -37,7 +45,9 @@
         "name": "Carrots",
         "unit": "bunch",
         "quantity": "8",
-        "price": "3.99"
+        "price": "3.99",
+        "description": "Carrots are a delicious, crunchy source of Vitamin A",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/produce/5.png"
     },
     {
         "id": 6,
@@ -45,7 +55,9 @@
         "name": "Broccoli",
         "unit": "head",
         "quantity": "8",
-        "price": "1.59"
+        "price": "1.59",
+        "description": "Broccoli is great raw, roasted, or sauteed",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/produce/6.png"
     },
     {
         "id": 7,
@@ -53,7 +65,9 @@
         "name": "Tomatoes, Slicing",
         "unit": "ea",
         "quantity": "9",
-        "price": "0.79"
+        "price": "0.79",
+        "description": "The perfect tomato for a sandwich or burger",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/produce/7.png"
     },
     {
         "id": 8,
@@ -61,6 +75,8 @@
         "name": "Tomatoes, Cherry",
         "unit": "pint",
         "quantity": "9",
-        "price": "3.59"
+        "price": "3.59",
+        "description": "Cherry tomatoes are fantastic on salads",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/produce/8.png"
     }
 ]

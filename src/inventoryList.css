@@ -36,6 +36,10 @@ body {
 
 /* inventory component */
 
+a {
+  text-decoration: none;
+}
+
 a, a:visited {
   color: #5b5b5b;
 }
@@ -73,6 +77,42 @@ a:hover {
 .sku {
   font-style: italic;
   font-size: 12px;
+}
+
+/* product detail component */
+
+#productContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#productDescription {
+  font-size: 20px;
+}
+
+#productImage {
+  width: 150px;
+  padding: 15px;
+}
+
+#productSku {
+  font-style: italic;
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+#productPriceDetails {
+  font-size: 18px;
+  padding-bottom: 40px;
+}
+
+#productHome {
+  padding: 10px;
+  text-decoration: none;
+  border: 1px solid #5b5b5b;
+  border-radius: 8px;
 }
 
 /* footer component */

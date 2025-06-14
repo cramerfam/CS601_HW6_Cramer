@@ -5,7 +5,9 @@
         "name": "Chicken, Breasts",
         "unit": "lb",
         "quantity": "10",
-        "price": "6.99"
+        "price": "6.99",
+        "description": "Perfect for any main course",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/meat/1.png"
     },
     {
         "id": 2,
@@ -13,7 +15,9 @@
         "name": "Chicken, Thighs",
         "unit": "lb",
         "quantity": "8",
-        "price": "5.99"
+        "price": "5.99",
+        "description": "Great in stews and braises",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/meat/2.png"
     },
     {
         "id": 3,
@@ -21,7 +25,9 @@
         "name": "Chicken, Ground",
         "unit": "lb",
         "quantity": "12",
-        "price": "4.99"
+        "price": "4.99",
+        "description": "Try this mixed with teriyaki sauce",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/meat/3.png"
     },
     {
         "id": 4,
@@ -29,7 +35,9 @@
         "name": "Beef, Ground",
         "unit": "lb",
         "quantity": "15",
-        "price": "5.99"
+        "price": "5.99",
+        "description": "Burgers, anyone?",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/meat/4.png"
     },
     {
         "id": 5,
@@ -37,7 +45,9 @@
         "name": "Beef, Steaks",
         "unit": "lb",
         "quantity": "8",
-        "price": "9.99"
+        "price": "9.99",
+        "description": "You too can make a gourmet meal at home",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/meat/5.png"
     },
     {
         "id": 6,
@@ -45,7 +55,9 @@
         "name": "Salmon, Filets",
         "unit": "lb",
         "quantity": "8",
-        "price": "8.99"
+        "price": "8.99",
+        "description": "Salmon is high in Omega 3",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/meat/6.png"
     },
     {
         "id": 7,
@@ -53,7 +65,9 @@
         "name": "Shrimp, Tail-Off",
         "unit": "lb",
         "quantity": "10",
-        "price": "7.99"
+        "price": "7.99",
+        "description": "Try our shrimp in a veggie stir fry tonight!",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/meat/7.png"
     },
     {
         "id": 8,
@@ -61,6 +75,8 @@
         "name": "Pork, Chops",
         "unit": "lb",
         "quantity": "7",
-        "price": "5.99"
+        "price": "5.99",
+        "description": "A classic dinner option",
+        "image": "https://cramerfam.github.io/CS601_HW6_Cramer/public/img/meat/8.png"
     }
 ]
